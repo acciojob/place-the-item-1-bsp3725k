@@ -5,6 +5,7 @@
 	color:black;
 	font-size:40px;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 .item1{
 	background-color:red;
